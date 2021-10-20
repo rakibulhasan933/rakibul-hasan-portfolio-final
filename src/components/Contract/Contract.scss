@@ -1,6 +1,11 @@
+@import '../../global.scss';
+
 .contract{
     background-color: white;
     display: flex;
+    @include mobile{
+        flex-direction: column;
+    }
    
 
     .left{
@@ -33,12 +38,20 @@
                 height: 30px;
                 font-size: 14px;
                 border-radius: 10px;
+                @include mobile{
+                    width: 200px;
+                    height: 20px;
+                }
             }
             textarea{
                 width: 300px;
                 height: 200px;
                 font-size: 14px;
                 border-radius: 10px;
+                @include mobile{
+                    width: 200px;
+                    height: 20px;
+                }
             }
             button{
                 width: 150px;

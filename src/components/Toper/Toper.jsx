@@ -10,7 +10,7 @@ export default function Toper({ menuOpen, setMenuOpen }) {
                     <a href="#intro" className="logo">Rakibul</a>
                     <div className="itemContainer">
                         <MailIcon className="icon" />
-                        <span> <a href="mailto:rakibulmd933@gmail.com">rakibulmd933@gmail.com</a></span>
+                        <span><a href="mailto:rakibulmd933@gmail.com">Gmail</a></span>
                     </div>
                 </div>
                 <div className="right">

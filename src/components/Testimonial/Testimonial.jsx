@@ -21,7 +21,7 @@ export default function Testimonial() {
                 "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             icon: "assets/youtube.png",
             desc:
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam    . ",
             featured: true,
         },
         {
